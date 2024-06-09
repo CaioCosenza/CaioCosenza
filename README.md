@@ -36,5 +36,5 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/CaioCosenza/output/github-contribution-grid-snake.svg">
 </picture>
 
- <img align="right" alt="" height="190px" img src="https://media3.giphy.com/media/qo4T3YNcaT2IMGZ8tY/200.gif?cid=82a1493b8841wc39uh9ekvj2k2kbshzvipbe2kw3d1pc0zc2&ep=v1_gifs_gifId&rid=200.gif&ct=s" alt="">
+ <img align="right" alt="" height="190px" img src="https://media3.giphy.com/media/qo4T3YNcaT2IMGZ8tY/200.gif?cid=82a1493b8841wc39uh9ekvj2k2kbshzvipbe2kw3d1pc0zc2&ep=v1_gifs_gifId&rid=200.gif&ct=s" alt="GIF BONECO ROXO">
 
