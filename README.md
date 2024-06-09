@@ -5,7 +5,6 @@
 </div>
 
  <div>
-   <img align="right" alt="" height="190px" img src="https://gifuu.agency/wp-content/uploads/2020/12/GIFuu-Agentur-GIF-Marketing-Maskottchen-Olaf.gif" alt="">
    <a href="https://github.com/CaioCosenza">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocosenza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocosenza&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -37,4 +36,5 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/CaioCosenza/output/github-contribution-grid-snake.svg">
 </picture>
 
+ <img align="right" alt="" height="190px" img src="https://media1.giphy.com/avatars/TealTeacup/Qy43GAwfCm7e.gif" alt="">
 
