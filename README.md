@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CaioCosenza.CaioCosenza&"  />
 </div>
 
-
+ 
  <div>
    <a href="https://github.com/CaioCosenza">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocosenza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -36,9 +36,5 @@
 
 </div>
 
-
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioCosenza/CaioCosenza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioCosenza/CaioCosenza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/CaioCosenza/output/github-contribution-grid-snake.svg">
-</picture>
+<img align="center" alt=" " img src="https://i.imgur.com/1ZvVkDc.gif" alt="GIF BONECO ROXO">
