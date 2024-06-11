@@ -4,7 +4,10 @@
   </a>
 </div>
 
-<img src="https://camo.githubusercontent.com/ccebce19d6929ee3cf5daba65a27721bef8088edc274ffca318c5572ee6fd3d6/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d4e697479617361686131332e4e6974796173616861313326" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=CaioCosenza.CaioCosenza&amp;" style="max-width: 100%;">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CaioCosenza.CaioCosenza&"  />
+</div>
+
 
  <div>
    <a href="https://github.com/CaioCosenza">
