@@ -36,4 +36,4 @@
 
 </div>
 
-<img align="left" alt=" " img src="https://camo.githubusercontent.com/df714617513190042ea38c3ec7d742af51d29d5a5702829ba777a49bb3195d70/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966" alt="GIF BONECO ROXO">
+<img align="center" alt="mario" img src="https://camo.githubusercontent.com/df714617513190042ea38c3ec7d742af51d29d5a5702829ba777a49bb3195d70/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966" alt="Mario Programador">
