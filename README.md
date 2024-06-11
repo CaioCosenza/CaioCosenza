@@ -36,5 +36,4 @@
 
 </div>
 
-<img align="left" alt=" " img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4ecc9234335649.56cdd91d9c4bd.gif" alt="GIF BONECO ROXO">
-<img align="rigth" alt=" " img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe5b2c7a-0eba-4257-ad16-0ea4c2e2669f/d89lter-5aac8f80-136c-438a-8197-07fbf349da2d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlNWIyYzdhLTBlYmEtNDI1Ny1hZDE2LTBlYTRjMmUyNjY5ZlwvZDg5bHRlci01YWFjOGY4MC0xMzZjLTQzOGEtODE5Ny0wN2ZiZjM0OWRhMmQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gn-qmynqeyw1TiglbFRdbEREzTPchujIe-0ueOcdNqw" alt="GIF BONECO ROXO">
+<img align="left" alt=" " img src="https://camo.githubusercontent.com/df714617513190042ea38c3ec7d742af51d29d5a5702829ba777a49bb3195d70/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966" alt="GIF BONECO ROXO">
