@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -5,7 +6,7 @@
 </div>
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CaioCosenza.CaioCosenza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CaioCosenza.CaioCosenza&"/>
 </div>
 
  
@@ -37,3 +38,6 @@
 </div>
 
 <img align="center" alt="mario" img src="https://camo.githubusercontent.com/df714617513190042ea38c3ec7d742af51d29d5a5702829ba777a49bb3195d70/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966" alt="Mario Programador">
+
+
+
