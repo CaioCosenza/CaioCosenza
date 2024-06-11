@@ -10,11 +10,7 @@
 </div>
 
  
- ![Chinmay Github Stats](https://github-readme-stats.vercel.app/api?username=CaioCosenza&show_icons=true&theme=radical)             ![Chinmay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioCosenza&theme=radical)                    
-
-
-<!-- color=nord_dark -->
-
+ ![Chinmay Github Stats](https://github-readme-stats.vercel.app/api?username=CaioCosenza&show_icons=true&theme=radical) ![Chinmay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioCosenza&theme=radical)                    
 
 
 ## 🔥 Skills
