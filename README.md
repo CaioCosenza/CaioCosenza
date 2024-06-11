@@ -5,12 +5,14 @@
  </a>
 </div>
 
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CaioCosenza.CaioCosenza&"/>
 </div>
 
-<div> <a href="https://github.com/CaioCosenza"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioCosenza&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioCosenza&theme=radical"/> </div>         
+<div> <a href="https://github.com/CaioCosenza"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocosenza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocosenza&layout=compact&langs_count=6&theme=tokyonight"/> 
+</div>
 
 
 ## 🔥 Skills
