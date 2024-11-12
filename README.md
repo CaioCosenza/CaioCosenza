@@ -32,13 +32,14 @@
 
 <div> 
   
- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF7F&color:FFF)](mailto:cvasconcelos.caio@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF7F&color:FFF)](mailto:cvasconcelos.caio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF7F&color:FFF)](https://www.linkedin.com/in/caio-cosenza-31b562156)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF7F&color:FFF)](https://instagram.com/cosenza.caio)
 
 </div>
 
-<img align="center" alt="mario" img src="https://camo.githubusercontent.com/df714617513190042ea38c3ec7d742af51d29d5a5702829ba777a49bb3195d70/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966" alt="Mario Programador">
+<img align="center" alt="mario" img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-511.gif" alt="Mario Programador">
+
 
 
 
