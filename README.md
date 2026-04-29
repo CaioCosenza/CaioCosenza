@@ -37,7 +37,7 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 ---
 <p align="right">
 <img width="300" height="300" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF3cWl1MjMwYmo3d245MmR1MG9oZTE1ZjExMDN5ZzVjdGNid2h5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.webp" />
-<img width="300" height="300" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThzaWtlb3MzaTJ2b2RwZjBpN2QwcDRnZGlrY3RtcDFuMHg4ZmNyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hun4DFmfnDId3lid5b/200.webp />
+<img width="300" height="300" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThzaWtlb3MzaTJ2b2RwZjBpN2QwcDRnZGlrY3RtcDFuMHg4ZmNyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hun4DFmfnDId3lid5b/200.webp" />
 </p>
 ---
 
