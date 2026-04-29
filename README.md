@@ -27,7 +27,6 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdStrike-000000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
