@@ -7,8 +7,8 @@
 ### 🚀 Sobre mim
 Sou um desenvolvedor focado em tecnologias web, apaixonado por criar interfaces modernas e funcionais. Atualmente focado no ecossistema JavaScript/TypeScript.
 
-- 🌍 Atualmente moro no Brasil
-- 💻 Trabalhando com **TypeScript, HTML, CSS e JavaScript**
+- 🌍 Atualmente moro em Portugal
+- 💻 Trabalhando com **Suporte de IT, Cybersucurity, Redes**
 - 📚 Sempre aprendendo novas ferramentas e frameworks
 
 ### 📊 Estatísticas do GitHub
