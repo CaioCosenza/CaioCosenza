@@ -1,45 +1,66 @@
+# 🌐 [SEU NOME COMPLETO]
+### IT Support Specialist | Network Infrastructure | Cybersecurity
 
-<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Suporte%20e%20Segurança&fontSize=40" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=soft&color=050a30&height=200&section=header&text=IT%20Infrastructure%20%26%20Security&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
 
-# Olá, eu sou o Caio Cosenza! 👋
+## 👤 Sobre Mim
+Sou um profissional de TI focado em garantir a continuidade de negócios através de infraestruturas de rede resilientes e práticas avançadas de cibersegurança. Minha atuação combina o suporte técnico consultivo com a implementação de políticas de segurança (Hardening) e gestão de redes escaláveis.
 
-### Suporte de TI | Especialista em Redes & Cibersegurança em Formação
-
-Sou um profissional de TI apaixonado por resolver problemas complexos e garantir a integridade de infraestruturas digitais. Atualmente, foco meu desenvolvimento em administração de redes seguras e defesa cibernética.
-
----
-
-## 🛠️ Sobre Mim
-
-- 🔭 Atualmente trabalhando como **Analista de Suporte de TI**.
-- 🔐 Estudando profundamente **Cibersegurança e Hardening de Sistemas**.
-- 🌐 Entusiasta de **Arquitetura de Redes** e automação de processos.
-- ⚡ Curiosidade: Adoro desmontar coisas para entender como funcionam (e, na maioria das vezes, montá-las de volta!).
+- 🛠️ **Suporte N2/N3**: Diagnóstico avançado de hardware, software e sistemas operacionais.
+- 📡 **Networks**: Especialista em protocolos TCP/IP, VLANs, Roteamento e Switching.
+- 🛡️ **Cybersecurity**: Foco em Firewall (pfSense/Fortigate), VPNs, monitoramento SOC e auditoria de vulnerabilidades.
+- 🐧 **Sistemas**: Administração de ambientes Windows Server (AD/GPO) e Linux (Debian/Ubuntu/CentOS).
 
 ---
 
-## 🚀 Habilidades & Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-### 🖥️ Suporte & Infraestrutura
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-4B4B4B?style=for-the-badge&logo=cpu&logoColor=white)
+### 🔌 Infraestrutura e Redes
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-EE1F25?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
-### 🌐 Redes & Conectividade
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-FF6600?style=for-the-badge&logo=itunes&logoColor=white)
-![DNS/DHCP](https://img.shields.io/badge/DNS/DHCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### 🛡️ Segurança da Informação
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike-000000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
 
-### 🛡️ Cibersegurança
-![Firewall](https://img.shields.io/badge/Firewall-E01E5A?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-00BFA5?style=for-the-badge&logo=expressvpn&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-## 🤝 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-PERFIL])
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+### 💻 Sistemas e Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Tux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
-*Este perfil é atualizado constantemente com novos laboratórios e certificações.*
+
+## 📊 Estatísticas
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[SEU-USER]&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USER]&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📩 Conecte-se Comigo
+<p align="center">
+  <a href="https://linkedin.com/in/[SEU-PERFIL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>"Segurança não é um produto, é um processo."</sub>
+</p>
