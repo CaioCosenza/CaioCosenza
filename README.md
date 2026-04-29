@@ -1,45 +1,52 @@
+# Olá, eu sou o Caio Cosenza!
+<p align="center">
+<img src="https://komarev.com/ghpvc/?
+username=CaioCosenza&label=Visitantes&color=0e75b6&style=flat" alt="CaioCosenza" />
+</p>
+### Sobre mim
+Sou um desenvolvedor focado em tecnologias web, apaixonado por criar interfaces
+modernas e funcionais. Atualmente focado no ecossistema JavaScript/TypeScript.
+- Atualmente moro no Brasil
+- Trabalhando com **TypeScript, HTML, CSS e JavaScript**
+- Sempre aprendendo novas ferramentas e frameworks
+### Estatísticas do GitHub
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?
+username=CaioCosenza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /
+>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?
+username=CaioCosenza&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+### 🛠 Skills
+<p align="left">
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
- </a>
-</div>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-
+badge&logo=html5&logoColor=white" />
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CaioCosenza.CaioCosenza&"/>
-</div>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-
+badge&logo=css3&logoColor=white" />
 
-<div> <a href="https://github.com/CaioCosenza"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocosenza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocosenza&layout=compact&langs_count=6&theme=tokyonight"/> 
-</div>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-
+badge&logo=javascript&logoColor=black" />
 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-
+badge&logo=typescript&logoColor=white" />
 
-<h1>
-  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width ="30"> Skills
-</h1>
-    
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="" height="190px" img src="https://media3.giphy.com/media/qo4T3YNcaT2IMGZ8tY/200.gif?cid=82a1493b8841wc39uh9ekvj2k2kbshzvipbe2kw3d1pc0zc2&ep=v1_gifs_gifId&rid=200.gif&ct=s" alt="GIF BONECO ROXO">
-</div>
-
-<br>
- 
- ## 🔥 Redes sociais
-
-<div> 
-  
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF7F&color:FFF)](mailto:cvasconcelos.caio@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF7F&color:FFF)](https://www.linkedin.com/in/caio-cosenza-31b562156)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF7F&color:FFF)](https://instagram.com/cosenza.caio)
-
-</div>
-
-<img align="center" alt="mario" img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-511.gif" alt="Mario Programador">
-
-
+</p>
+### Redes Sociais
+<p align="left">
+<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/
+Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/seu-usuario"><img src="https://img.shields.io/
+badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/seu-usuario"><img src="https://img.shields.io/
+badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+---
+<p align="center">
+<img src="https://media.giphy.com/media/
+v1.Y2lkPTc5MGI3NjExNHJueXByZnd6YmR4eG54eG54eG54eG54eG54eG54eG54eG54JnB2PTEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/
+L1R1TVr9W5RI8V2qS7/giphy.gif" width="300">
+</p>
 
 
