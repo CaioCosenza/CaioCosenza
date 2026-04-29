@@ -1,9 +1,6 @@
 # 🌐 [CAIO COSENZA]
 ### IT Support Specialist | Network Infrastructure | Cybersecurity
 
-<p align="right">
-<img width="300" height="300" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF3cWl1MjMwYmo3d245MmR1MG9oZTE1ZjExMDN5ZzVjdGNid2h5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.webp" />
-</p>
 ## 👤 Sobre Mim
 Sou um profissional de TI focado em garantir a continuidade de negócios através de infraestruturas de rede resilientes e práticas avançadas de cibersegurança. Minha atuação combina o suporte técnico consultivo com a implementação de políticas de segurança (Hardening) e gestão de redes escaláveis.
 
@@ -38,8 +35,9 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 </p>
 
 ---
-
-
+<p align="right">
+<img width="300" height="300" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF3cWl1MjMwYmo3d245MmR1MG9oZTE1ZjExMDN5ZzVjdGNid2h5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.webp" />
+</p>
 ---
 
 ## 📩 Conecte-se Comigo
