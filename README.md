@@ -50,10 +50,10 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 
 ## 📩 Conecte-se Comigo
 <p align="center">
-  <a href="https://linkedin.com/in/[SEU-PERFIL]">
+  <a href="https://www.linkedin.com/in/caio-cosenza-31b562156">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:cvasconcelos.caio@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
