@@ -1,63 +1,53 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=250&section=header&text=Caio%20Cosenza&fontSize=70&animation=fadeIn&fontAlignY=35&desc=IT%20Support%20Analyst%20|%20Cybersecurity%20Learner&descAlignY=55&descSize=22" width="100%" />
+# Olá, eu sou o [Seu Nome]! 👋
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=CaioCosenza&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="CaioCosenza" />
-  </p>
+### Suporte de TI | Especialista em Redes & Cibersegurança em Formação
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/-IT%20Support-333333?style=flat-square&logo=it-support&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%20Security-22863a?style=flat-square&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Threat%20Intel-d73a49?style=flat-square&logo=fortinet&logoColor=white" />
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioCosenza&theme=github-dark&area=true&hide_border=true&color=22863a" width="95%" />
-</div>
-
-### 🚀 Sobre Mim
-
-Atualmente atuo como **Analista de Suporte de TI**, onde garanto a integridade da infraestrutura técnica. Apaixonado por segurança digital, estou expandindo meus conhecimentos em **Cibersegurança e Front-End**, unindo a visão de suporte à prevenção de ameaças.
-
-- 🛡️ Monitoramento de Redes e Infraestrutura de TI.
-- 💻 Estudando Desenvolvimento Web Seguro (HTML, CSS, JS).
-- 🎯 Foco em transição de carreira para a área de Segurança da Informação.
-
-### 📊 Estatísticas (Suporte & Cyber)
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioCosenza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCosenza&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
-### 🛠 Tech Stack & Ferramentas
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,windows,linux,git,vscode,github" />
-</div>
-
-<br />
-
-### 🔥 Redes Sociais e Contato
-<div align="left">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+Sou um profissional de TI apaixonado por resolver problemas complexos e garantir a integridade de infraestruturas digitais. Atualmente, foco meu desenvolvimento em administração de redes seguras e defesa cibernética.
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Active%20Threat%20Monitoring-Online-brightgreen?style=for-the-badge&logo=shodan&logoColor=white" />
-</div>
+## 🛠️ Sobre Mim
 
-<div align="right">
-  <img src="https://octodex.github.com/images/hackercat.png" width="100" />
-</div>
+- 🔭 Atualmente trabalhando como **Analista de Suporte de TI**.
+- 🔐 Estudando profundamente **Cibersegurança e Hardening de Sistemas**.
+- 🌐 Entusiasta de **Arquitetura de Redes** e automação de processos.
+- ⚡ Curiosidade: Adoro desmontar coisas para entender como funcionam (e, na maioria das vezes, montá-las de volta!).
+
+---
+
+## 🚀 Habilidades & Tecnologias
+
+### 🖥️ Suporte & Infraestrutura
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-4B4B4B?style=for-the-badge&logo=cpu&logoColor=white)
+
+### 🌐 Redes & Conectividade
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-FF6600?style=for-the-badge&logo=itunes&logoColor=white)
+![DNS/DHCP](https://img.shields.io/badge/DNS/DHCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🛡️ Cibersegurança
+![Firewall](https://img.shields.io/badge/Firewall-E01E5A?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-00BFA5?style=for-the-badge&logo=expressvpn&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-PERFIL])
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+---
+*Este perfil é atualizado constantemente com novos laboratórios e certificações.*
