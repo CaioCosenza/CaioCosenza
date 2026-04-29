@@ -1,7 +1,7 @@
 # 🌐 [CAIO COSENZA]
 ### IT Support Specialist | Network Infrastructure | Cybersecurity
 
-<p align="left">
+<p align="rigth">
 <img width="300" height="300" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGRpbDBiN2dvY25rZmlwYXdiYTRrZ3Fqa3BnYmI1ZGh5OHdkbjUzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PegtYx2pANK76lGLgR/giphy.webp" />
 </p>
 ## 👤 Sobre Mim
