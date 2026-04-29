@@ -9,11 +9,11 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 - 🛡️ **Cybersecurity**: Foco em Firewall (pfSense/Fortigate), VPNs, monitoramento SOC e auditoria de vulnerabilidades.
 - 🐧 **Sistemas**: Administração de ambientes Windows Server (AD/GPO) e Linux (Debian/Ubuntu/CentOS).
   
+## 🛠️ Tecnologias e Ferramentas
+
 <p align="right">
 <img width="300" height="300" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF3cWl1MjMwYmo3d245MmR1MG9oZTE1ZjExMDN5ZzVjdGNid2h5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.webp" />
 </p>
-
-## 🛠️ Tecnologias e Ferramentas
 
 ### 🔌 Infraestrutura e Redes
 <p align="left">
@@ -37,9 +37,7 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 </p>
 
 ---
-<p align="right">
-<img width="300" height="300" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF3cWl1MjMwYmo3d245MmR1MG9oZTE1ZjExMDN5ZzVjdGNid2h5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.webp" />
-</p>
+
 ---
 
 ## 📩 Conecte-se Comigo
