@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Suporte%20e%20Segurança&fontSize=40" />
+
 # Olá, eu sou o Caio Cosenza! 👋
 
 ### Suporte de TI | Especialista em Redes & Cibersegurança em Formação
