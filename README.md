@@ -51,6 +51,6 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
   </a>
 </p>
 
-<p align="center">
+<p align="rigth">
   <sub>"Segurança não é um produto, é um processo."</sub>
 </p>
