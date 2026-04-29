@@ -35,7 +35,7 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 </p>
 
 ---
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/ef964a11-98a4-472f-8f0c-d1e3f52e49ad" />
+<img width="300" height="300" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGRpbDBiN2dvY25rZmlwYXdiYTRrZ3Fqa3BnYmI1ZGh5OHdkbjUzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PegtYx2pANK76lGLgR/giphy.webp" />
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQxNnhqcm9wN3kxZDJ5Ymw3dHZ1OGR0cmVnNHpyZG5janRwd3BkcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" />
