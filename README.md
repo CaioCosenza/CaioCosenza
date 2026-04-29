@@ -12,7 +12,7 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="right">
-<img width="300" height="300" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF3cWl1MjMwYmo3d245MmR1MG9oZTE1ZjExMDN5ZzVjdGNid2h5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.webp" />
+<img width="300" height="300" alt="image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pna2FhMWFmaDJpaWJsM3FqamxxZXVvOHk4bG1wbmo5NDQ1YjlkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx1KzuQBR8wIbrm81t/giphy.gif" />
 </p>
 
 ### 🔌 Infraestrutura e Redes
