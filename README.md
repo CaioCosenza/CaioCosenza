@@ -2,7 +2,7 @@
 ### IT Support Specialist | Network Infrastructure | Cybersecurity
 
 <p align="right">
-<img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aW1iNnUxM3ZkOHc1d2UzbHJheGh2OTFnOWZ6OGhneDlkbmRnb2JsZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/12jzJ3iOw9rA9a/200w.webp" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFzd2c0b2txemNxa3g0cGozdHp4amdvYnRnNWQ2MHVtMWZpNTM4diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3d2yl0QuHpHdYtfwVh/giphy.webp" />
 
 ## 👤 Sobre Mim
 Sou um profissional de TI focado em garantir a continuidade de negócios através de infraestruturas de rede resilientes e práticas avançadas de cibersegurança. Minha atuação combina o suporte técnico consultivo com a implementação de políticas de segurança (Hardening) e gestão de redes escaláveis.
