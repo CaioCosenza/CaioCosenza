@@ -2,7 +2,7 @@
 ### IT Support Specialist | Network Infrastructure | Cybersecurity
 
 <p align="right">
-<img width="300" height="300" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGRpbDBiN2dvY25rZmlwYXdiYTRrZ3Fqa3BnYmI1ZGh5OHdkbjUzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PegtYx2pANK76lGLgR/giphy.webp" />
+<img width="300" height="300" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA3djhvMTNwbHA4OTR1ZXJidDA5OTAyYnRobndka2NxOXdocDR0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" />
 </p>
 ## 👤 Sobre Mim
 Sou um profissional de TI focado em garantir a continuidade de negócios através de infraestruturas de rede resilientes e práticas avançadas de cibersegurança. Minha atuação combina o suporte técnico consultivo com a implementação de políticas de segurança (Hardening) e gestão de redes escaláveis.
@@ -38,7 +38,7 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 </p>
 
 ---
-<img width="300" height="300" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGRpbDBiN2dvY25rZmlwYXdiYTRrZ3Fqa3BnYmI1ZGh5OHdkbjUzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PegtYx2pANK76lGLgR/giphy.webp" />
+
 
 ---
 
