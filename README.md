@@ -2,7 +2,7 @@
 ### IT Support Specialist | Network Infrastructure | Cybersecurity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=050a30&height=200&section=header&text=IT%20Infrastructure%20%26%20Security&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*iBf0eI_RiqroBKOPmzeqfQ.jpeg" />
 </p>
 
 ## 👤 Sobre Mim
