@@ -2,7 +2,7 @@
 ### IT Support Specialist | Network Infrastructure | Cybersecurity
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*iBf0eI_RiqroBKOPmzeqfQ.jpeg" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQxNnhqcm9wN3kxZDJ5Ymw3dHZ1OGR0cmVnNHpyZG5janRwd3BkcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" />
 </p>
 
 ## 👤 Sobre Mim
