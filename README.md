@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Caio Cosenza! 👋
 
 ### Suporte de TI | Especialista em Redes & Cibersegurança em Formação
 
@@ -32,17 +32,6 @@ Sou um profissional de TI apaixonado por resolver problemas complexos e garantir
 ![Firewall](https://img.shields.io/badge/Firewall-E01E5A?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-00BFA5?style=for-the-badge&logo=expressvpn&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
 
 ## 🤝 Contato
 
