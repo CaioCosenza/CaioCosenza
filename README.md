@@ -1,4 +1,4 @@
-# 🌐 [SEU NOME COMPLETO]
+# 🌐 [CAIO COSENZA]
 ### IT Support Specialist | Network Infrastructure | Cybersecurity
 
 <p align="center">
@@ -8,7 +8,7 @@
 ## 👤 Sobre Mim
 Sou um profissional de TI focado em garantir a continuidade de negócios através de infraestruturas de rede resilientes e práticas avançadas de cibersegurança. Minha atuação combina o suporte técnico consultivo com a implementação de políticas de segurança (Hardening) e gestão de redes escaláveis.
 
-- 🛠️ **Suporte N2/N3**: Diagnóstico avançado de hardware, software e sistemas operacionais.
+- 🛠️ **Suporte N2**: Diagnóstico avançado de hardware, software e sistemas operacionais.
 - 📡 **Networks**: Especialista em protocolos TCP/IP, VLANs, Roteamento e Switching.
 - 🛡️ **Cybersecurity**: Foco em Firewall (pfSense/Fortigate), VPNs, monitoramento SOC e auditoria de vulnerabilidades.
 - 🐧 **Sistemas**: Administração de ambientes Windows Server (AD/GPO) e Linux (Debian/Ubuntu/CentOS).
@@ -20,8 +20,6 @@ Sou um profissional de TI focado em garantir a continuidade de negócios atravé
 ### 🔌 Infraestrutura e Redes
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/MikroTik-EE1F25?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
