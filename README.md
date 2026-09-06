@@ -5,7 +5,7 @@
 Sou um profissional de TI focado em garantir a continuidade de negócios através de infraestruturas de rede resilientes e práticas de cibersegurança. Minha atuação combina o suporte técnico consultivo com a implementação de políticas de segurança e gestão de redes escaláveis.
 
 - 🛠️ **Suporte N2**: Diagnóstico avançado de hardware, software e sistemas operacionais.
-- 📡 **Networks**: Especialista em protocolos TCP/IP, VLANs, Roteamento e Switching.                                  
+- 📡 **Networks**: Protocolos TCP/IP, VLANs, Roteamento e Switching.                                  
 - 🛡️ **Cybersecurity**: Foco em Firewall (pfSense/Fortigate), VPNs, monitoramento SOC e auditoria de vulnerabilidades.
 - 🐧 **Sistemas**: Administração de ambientes Windows Server (AD/GPO) e Linux (Debian/Ubuntu/CentOS).
   
