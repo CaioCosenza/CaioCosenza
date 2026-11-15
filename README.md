@@ -31,7 +31,7 @@ $ cat experiencia.log
 | --- | --- |
 | `suporte_tecnico` | Apoio a utilizadores e resolução de incidentes de hardware, software e acessos |
 | `redes` | Gestão e manutenção de redes e da conectividade da infraestrutura |
-| `ciberseguranca` | Firewall (pfSense/Fortigate), VPN, monitorização e boas práticas de segurança |
+| `ciberseguranca` | Firewall (pfSense/Sophos), VPN, monitorização e boas práticas de segurança |
 | `servidores` | Windows Server, Active Directory e GPO; Linux (Debian/Ubuntu/CentOS) |
 | `dados_e_sistemas` | SQL Server e sistemas de gestão empresarial (ERP) |
 
@@ -41,7 +41,7 @@ $ cat experiencia.log
   <img src="https://img.shields.io/badge/Cisco-0a1114?style=for-the-badge&logo=cisco&logoColor=00ff9c" alt="Cisco" />
   <img src="https://img.shields.io/badge/Wireshark-0a1114?style=for-the-badge&logo=wireshark&logoColor=00ff9c" alt="Wireshark" />
   <img src="https://img.shields.io/badge/pfSense-0a1114?style=for-the-badge&logo=pfsense&logoColor=00ff9c" alt="pfSense" />
-  <img src="https://img.shields.io/badge/Fortinet-0a1114?style=for-the-badge&logo=fortinet&logoColor=00ff9c" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/Sophos-0a1114?style=for-the-badge" alt="Sophos" />
   <img src="https://img.shields.io/badge/OpenVPN-0a1114?style=for-the-badge&logo=openvpn&logoColor=00ff9c" alt="OpenVPN" />
   <img src="https://img.shields.io/badge/Kali_Linux-0a1114?style=for-the-badge&logo=kalilinux&logoColor=00ff9c" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Nmap-0a1114?style=for-the-badge" alt="Nmap" />
