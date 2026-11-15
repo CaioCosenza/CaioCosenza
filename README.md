@@ -8,32 +8,15 @@
 
 <img src="assets/h01.svg" width="100%" alt="[01] sobre" />
 
-**Support & Hardware Technician** com mais de cinco anos de experiência em suporte técnico N1 e N2, redes LAN/WAN e VPN, firewall, servidores e Active Directory. Formação em Análise e Desenvolvimento de Sistemas e cursos em cibersegurança, Python e SQL Server. Valorizo a boa comunicação e o trabalho em equipa para manter utilizadores e infraestruturas a funcionar com segurança.
+<img src="assets/sobre.svg" width="100%" alt="Support & Hardware Technician com mais de cinco anos de experiência em suporte técnico N1 e N2, redes LAN/WAN e VPN, firewall, servidores e Active Directory. Formação em Análise e Desenvolvimento de Sistemas e cursos em cibersegurança, Python e SQL Server." />
 
 <img src="assets/h02.svg" width="100%" alt="[02] experiência" />
 
-```bash
-$ cat experiencia.log
-```
-
-> **▸ Support & Hardware Technician** · Elevar Global Lda. · `ago 2026 – atualmente`<br>
-> Suporte N1/N2 presencial e remoto · servidores e Active Directory · redes LAN/WAN, VPN e firewall · postos de trabalho
-
-> **▸ Support & Hardware Technician** · Centralgest Software · Mealhada · `jun 2025 – ago 2026`<br>
-> Suporte N1/N2 · hardware e software · software Centralgest · equipamentos de rede e firewall · estabilidade dos sistemas
-
-> **▸ Support & Hardware Technician** · Filosoft · `mai 2024 – jun 2025`<br>
-> Suporte N1/N2 · manutenção preventiva e corretiva · servidores e Active Directory · redes LAN/WAN, VPN e firewall
+<img src="assets/experiencia.svg" width="100%" alt="Support & Hardware Technician: Elevar Global Lda. (ago 2026 – atualmente), Centralgest Software, Mealhada (jun 2025 – ago 2026), Filosoft (mai 2024 – jun 2025). Suporte N1/N2, hardware e software, servidores e Active Directory, redes LAN/WAN, VPN e firewall." />
 
 <img src="assets/h03.svg" width="100%" alt="[03] áreas de atuação" />
 
-| ▸ módulo | o que faço |
-| --- | --- |
-| `suporte_tecnico` | Apoio a utilizadores e resolução de incidentes de hardware, software e acessos |
-| `redes` | Gestão e manutenção de redes e da conectividade da infraestrutura |
-| `ciberseguranca` | Firewall (pfSense/Sophos), VPN, monitorização e boas práticas de segurança |
-| `servidores` | Windows Server, Active Directory e GPO; Linux (Debian/Ubuntu/CentOS) |
-| `dados_e_sistemas` | SQL Server e sistemas de gestão empresarial (ERP) |
+<img src="assets/areas.svg" width="100%" alt="Áreas: suporte técnico, redes, cibersegurança (pfSense/Sophos, VPN), servidores (Windows Server, Active Directory, Linux), dados e sistemas (SQL Server, ERP)." />
 
 <img src="assets/h04.svg" width="100%" alt="[04] skills" />
 

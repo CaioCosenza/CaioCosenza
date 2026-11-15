@@ -306,6 +306,85 @@ export const SKILLS = [
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-');
 SKILLS.forEach(([r, ic]) => out(`skill-${slug(r)}.svg`, badge(r, ic)));
 
+// ---------- 7. janelas de terminal com conteúdo (sobre, experiência, áreas) ----------
+// linhas: { cmd } = comando digitado; { t, c, b, ind } = saída (texto, cor, negrito, recuo em caracteres); { gap } = espaço
+function janela(titulo, linhas, rotulo) {
+  const W = 1200, x = 34, size = 18, lh = 28;
+  let css = '', svg = '', t = 0.5, y = 82, i = 0;
+  for (const l of linhas) {
+    if (l.gap) { y += l.gap; continue; }
+    if (l.cmd) {
+      const d = digitar({ id: `k${i}`, x, y, size: 20, text: '$ ' + l.cmd, fill: C.g, start: t, dur: l.cmd.length * 0.04, bg: C.panel, cursor: true });
+      css += d.css; svg += d.svg; t += l.cmd.length * 0.04 + 0.3; y += lh + 6;
+    } else {
+      css += `.l${i}{animation:fo .25s ${t.toFixed(2)}s both}`;
+      const xx = x + (l.ind || 0) * cw(size);
+      const partes = Array.isArray(l.t) ? l.t : [[l.t, l.c, l.b]];
+      svg += `<text class="l${i}" x="${xx}" y="${y}" font-size="${size}" xml:space="preserve">${partes.map(([s, c, b]) => `<tspan fill="${c || C.tx}"${b ? ' font-weight="700"' : ''}>${esc(s)}</tspan>`).join('')}</text>`;
+      t += 0.06; y += lh;
+    }
+    i++;
+  }
+  css += `.pr{animation:fo .01s ${t.toFixed(2)}s both}`;
+  svg += `<g class="pr"><text x="${x}" y="${y + 6}" font-size="20" fill="${C.g}">$</text><rect class="blink" x="${x + 20}" y="${y - 11}" width="12" height="21" fill="${C.g}"/></g>`;
+  const H = y + 34;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" font-family="${MONO}" role="img" aria-label="${esc(rotulo)}">
+  <style>@keyframes blink{50%{opacity:0}}.blink{animation:blink 1s steps(1) infinite}@keyframes fo{from{opacity:0}to{opacity:1}}${css}${RM}</style>
+  <rect x="1" y="1" width="${W - 2}" height="${H - 2}" fill="${C.panel}" stroke="${C.bd}" stroke-width="2"/>
+  <rect x="1" y="1" width="${W - 2}" height="40" fill="#0d171b"/>
+  <path d="M1,41 H${W - 1}" stroke="${C.bd}" stroke-width="2"/>
+  <circle cx="26" cy="21" r="7" fill="${C.r}"/><circle cx="50" cy="21" r="7" fill="#ffbd2e"/><circle cx="74" cy="21" r="7" fill="${C.g}"/>
+  <text x="${W / 2}" y="27" font-size="15" fill="${C.mut}" text-anchor="middle">${esc(titulo)}</text>
+  ${svg}
+  <path d="M${W - 1},${H - 30} v29 h-29" stroke="${C.g}" stroke-width="4" fill="none"/>
+</svg>`;
+}
+
+const SOBRE = [
+  { cmd: 'cat sobre.txt' },
+  { t: [['Support & Hardware Technician', C.hi, true], [' com mais de cinco anos de experiência em', C.tx]] },
+  { t: 'suporte técnico N1 e N2, redes LAN/WAN e VPN, firewall, servidores e Active Directory.' },
+  { t: 'Formação em Análise e Desenvolvimento de Sistemas e cursos em cibersegurança, Python' },
+  { t: 'e SQL Server. Valorizo a boa comunicação e o trabalho em equipa para manter' },
+  { t: 'utilizadores e infraestruturas a funcionar com segurança.' },
+];
+const EXP = [['Elevar Global Lda.', 'ago 2026 – atualmente', [
+  'Suporte técnico N1 e N2 a utilizadores, presencial e remotamente.',
+  'Diagnóstico e resolução de problemas de hardware e software.',
+  'Gestão e suporte de servidores e Active Directory.',
+  'Configuração e manutenção de redes LAN/WAN e VPN, equipamentos de rede e firewall.',
+  'Instalação e configuração de sistemas operativos, aplicações e postos de trabalho.']],
+['Centralgest Software · Mealhada', 'jun 2025 – ago 2026', [
+  'Suporte técnico N1 e N2 a utilizadores, presencial e remotamente.',
+  'Diagnóstico e resolução de problemas de hardware e software.',
+  'Instalação, configuração e suporte ao software Centralgest.',
+  'Configuração e suporte de equipamentos e serviços de rede e firewall.',
+  'Apoio na resolução de incidentes e na melhoria da estabilidade dos sistemas.']],
+['Filosoft', 'mai 2024 – jun 2025', [
+  'Suporte técnico N1 e N2 a utilizadores.',
+  'Manutenção preventiva e corretiva de equipamentos e sistemas.',
+  'Gestão e suporte de servidores e Active Directory.',
+  'Configuração e manutenção de redes LAN/WAN e VPN, equipamentos de rede e firewall.',
+  'Instalação e configuração de sistemas operativos, aplicações e postos de trabalho.']]];
+const EXPERIENCIA = [{ cmd: 'cat experiencia.log' }];
+EXP.forEach(([emp, data, itens], k) => {
+  if (k) EXPERIENCIA.push({ gap: 14 });
+  EXPERIENCIA.push({ t: [[`[${data}] `, C.c], ['▸ Support & Hardware Technician', C.g, true], [` @ ${emp}`, C.hi]] });
+  itens.forEach((s) => EXPERIENCIA.push({ t: [['  └─ ', C.mut], [s, C.tx]] }));
+});
+const AREAS = [{ cmd: 'ls -l areas/' }];
+[['suporte_tecnico', 'Apoio a utilizadores e incidentes de hardware, software e acessos'],
+ ['redes', 'Gestão e manutenção de redes e da conectividade da infraestrutura'],
+ ['ciberseguranca', 'Firewall (pfSense/Sophos), VPN, monitorização e boas práticas'],
+ ['servidores', 'Windows Server, Active Directory e GPO; Linux (Debian/Ubuntu/CentOS)'],
+ ['dados_e_sistemas', 'SQL Server e sistemas de gestão empresarial (ERP)']]
+  .forEach(([m, d]) => AREAS.push({ t: [['drwxr-x--- ', C.mut], [m.padEnd(18), C.g, true], [d, C.tx]] }));
+
+const txt = (ls) => ls.filter((l) => l.t).map((l) => (Array.isArray(l.t) ? l.t.map((p) => p[0]).join('') : l.t)).join(' ');
+out('sobre.svg', janela('cat sobre.txt — caio@secure', SOBRE, txt(SOBRE)));
+out('experiencia.svg', janela('cat experiencia.log — caio@secure', EXPERIENCIA, txt(EXPERIENCIA)));
+out('areas.svg', janela('ls -l areas/ — caio@secure', AREAS, txt(AREAS)));
+
 out('header.svg', header());
 out('terminal.svg', terminal());
 out('camada8.svg', camada8());
