@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" font-family="ui-monospace,'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-label="Camada 8, canal de cibersegurança no Instagram @camada.8">
+<style>
+.o rect{stroke-dasharray:1;animation:draw 1s cubic-bezier(.65,0,.35,1) .3s both}
+.rd .o rect{animation-delay:.42s}
+.ly path{animation:fi .2s ease-out both}
+.ly path:nth-child(2){animation-delay:0.05s}.ly path:nth-child(3){animation-delay:0.1s}.ly path:nth-child(4){animation-delay:0.15000000000000002s}.ly path:nth-child(5){animation-delay:0.2s}.ly path:nth-child(6){animation-delay:0.25s}.ly path:nth-child(7){animation-delay:0.30000000000000004s}
+.ly path:nth-child(8){animation:fl .5s .5s both}
+.gw{opacity:.35;animation:pu 3.2s ease-in-out 2.2s infinite alternate}
+.rd{opacity:.8;transform:translateX(-8px);animation:g1 .36s steps(1,end) 1.3s both}
+.s2{transform:translateX(18px);animation:g2 .36s steps(1,end) 1.3s both}
+.s3{transform:translateX(-16px);animation:g3 .36s steps(1,end) 1.3s both}
+.j2{animation:j2 7s steps(1,end) 4s infinite}
+.j3{animation:j3 7s steps(1,end) 4s infinite}
+.tr{animation:sh .32s steps(1,end) 1.3s}
+.ey{animation:fl .5s 1.6s both}
+.in{animation:fin .7s ease-out both}
+.blink{animation:fl2 1.6s steps(1) infinite}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes fi{from{opacity:0}to{opacity:1}}
+@keyframes fl{0%{opacity:0}30%{opacity:1}45%{opacity:.2}60%,100%{opacity:1}}
+@keyframes fl2{50%{opacity:0}}
+@keyframes fin{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes sh{0%{transform:translate(6px,-3px)}25%{transform:translate(-7px,2px)}50%{transform:translate(4px,3px)}75%{transform:translate(-3px,-2px)}100%{transform:none}}
+@keyframes g1{0%{transform:none}20%{transform:translateX(-22px)}45%{transform:translateX(10px)}70%{transform:translateX(-14px)}100%{transform:translateX(-8px)}}
+@keyframes g2{0%{transform:none}20%{transform:translateX(34px)}45%{transform:translateX(-14px)}70%{transform:translateX(26px)}100%{transform:translateX(18px)}}
+@keyframes g3{0%{transform:none}20%{transform:translateX(-30px)}45%{transform:translateX(12px)}70%{transform:translateX(-24px)}100%{transform:translateX(-16px)}}
+@keyframes pu{from{opacity:.28}to{opacity:.6}}
+@keyframes j2{0%,93%,100%{transform:none}94%{transform:translateX(14px)}96%{transform:translateX(-10px)}98%{transform:translateX(6px)}}
+@keyframes j3{0%,93%,100%{transform:none}94%{transform:translateX(-12px)}96%{transform:translateX(9px)}98%{transform:translateX(-5px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm-hide{display:none}}
+</style>
+<rect x="1" y="1" width="1198" height="328" fill="#0a1114" stroke="#12342c" stroke-width="2"/>
+<path d="M1,30 V1 H30" stroke="#00ff9c" stroke-width="4" fill="none"/>
+<path d="M1199,300 V329 H1170" stroke="#00ff9c" stroke-width="4" fill="none"/>
+<svg x="50" y="55" width="220" height="220" viewBox="0 0 512 512">
+<defs>
+<radialGradient id="bg" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#07100B"/><stop offset="1" stop-color="#010201"/></radialGradient>
+<pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="2" fill="#000" opacity=".45"/></pattern>
+<filter id="glow" x="-80%" y="-200%" width="260%" height="500%"><feGaussianBlur stdDeviation="9"/></filter>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="8"/></filter>
+<clipPath id="k1"><rect width="512" height="186"/><rect y="206" width="512" height="112"/><rect y="336" width="512" height="176"/></clipPath>
+<clipPath id="k2"><rect y="186" width="512" height="20"/></clipPath>
+<clipPath id="k3"><rect y="318" width="512" height="18"/></clipPath>
+</defs>
+<rect width="512" height="512" fill="url(#bg)" stroke="#12342c" stroke-width="6"/>
+<g class="tr">
+<g class="ly" stroke-width="8"><path d="M112,380 H160 M352,380 H400" stroke="#0E5C33"/><path d="M112,344.6 H160 M352,344.6 H400" stroke="#0E5C33"/><path d="M112,309.1 H160 M352,309.1 H400" stroke="#0E5C33"/><path d="M112,273.7 H160 M352,273.7 H400" stroke="#0E5C33"/><path d="M112,238.3 H160 M352,238.3 H400" stroke="#0E5C33"/><path d="M112,202.9 H160 M352,202.9 H400" stroke="#0E5C33"/><path d="M112,167.4 H160 M352,167.4 H400" stroke="#0E5C33"/><path d="M112,132 H160 M352,132 H400" stroke="#F0142F"/></g>
+<g class="gw o" fill="none" stroke="#00FF66" stroke-width="20" filter="url(#soft)"><rect x="206" y="116" width="100" height="110" rx="36" pathLength="1"/><rect x="192" y="246" width="128" height="150" rx="46" pathLength="1"/></g>
+<g class="rd"><g class="o" fill="none" stroke="#F0142F" stroke-width="20"><rect x="206" y="116" width="100" height="110" rx="36" pathLength="1"/><rect x="192" y="246" width="128" height="150" rx="46" pathLength="1"/></g></g>
+<g clip-path="url(#k1)"><g class="o" fill="none" stroke="#00FF66" stroke-width="20"><rect x="206" y="116" width="100" height="110" rx="36" pathLength="1"/><rect x="192" y="246" width="128" height="150" rx="46" pathLength="1"/></g></g>
+<g clip-path="url(#k2)"><g class="s2"><g class="j2"><g class="o" fill="none" stroke="#00FF66" stroke-width="20"><rect x="206" y="116" width="100" height="110" rx="36" pathLength="1"/><rect x="192" y="246" width="128" height="150" rx="46" pathLength="1"/></g></g></g></g>
+<g clip-path="url(#k3)"><g class="s3"><g class="j3"><g class="o" fill="none" stroke="#00FF66" stroke-width="20"><rect x="206" y="116" width="100" height="110" rx="36" pathLength="1"/><rect x="192" y="246" width="128" height="150" rx="46" pathLength="1"/></g></g></g></g>
+<g class="ey" fill="#F0142F"><path d="M229,163 h19 v8 h-19z M264,163 h19 v8 h-19z" filter="url(#glow)"/><path d="M229,163 h19 v8 h-19z M264,163 h19 v8 h-19z"/></g>
+</g>
+<rect width="512" height="512" fill="url(#scan)"/>
+</svg>
+<g class="in" style="animation-delay:.8s">
+<text x="330" y="88" font-size="30" font-weight="700" fill="#00ff9c">Camada 8 · @camada.8</text>
+<text x="330" y="128" font-size="18" fill="#c9ddd6">Canal de cibersegurança em linguagem simples, para todos.</text>
+<text x="330" y="158" font-size="18" fill="#c9ddd6">O modelo OSI tem sete camadas, e a oitava é o utilizador:</text>
+<text x="330" y="188" font-size="18" fill="#c9ddd6">onde começa a maior parte dos incidentes.<tspan class="blink" fill="#00ff9c"> █</tspan></text>
+</g>
+<g class="in" style="animation-delay:1.6s"><rect x="330" y="218" width="262" height="72" fill="#05080a" stroke="#12342c" stroke-width="1.5"/>
+<text x="348" y="250" font-size="26" font-weight="700" fill="#eafff6">10 mil+</text>
+<text x="348" y="276" font-size="15" fill="#6f8f84">seguidores</text></g><g class="in" style="animation-delay:1.75s"><rect x="610" y="218" width="262" height="72" fill="#05080a" stroke="#12342c" stroke-width="1.5"/>
+<text x="628" y="250" font-size="26" font-weight="700" fill="#eafff6">400 mil+</text>
+<text x="628" y="276" font-size="15" fill="#6f8f84">views num só Reel</text></g><g class="in" style="animation-delay:1.9000000000000001s"><rect x="890" y="218" width="262" height="72" fill="#05080a" stroke="#12342c" stroke-width="1.5"/>
+<text x="908" y="250" font-size="26" font-weight="700" fill="#eafff6">30+</text>
+<text x="908" y="276" font-size="15" fill="#6f8f84">vídeos publicados</text></g>
+</svg>

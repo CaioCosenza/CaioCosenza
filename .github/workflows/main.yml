@@ -11,7 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
     
   
 
@@ -31,6 +31,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-camada8.svg?color_snake=#00ff9c&color_dots=#0a1114,#0b3d2a,#0e6b45,#12a565,#00ff9c
           
           
       # push the content of <build_dir> to a branch

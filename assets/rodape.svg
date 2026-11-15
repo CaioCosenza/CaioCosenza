@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" font-family="ui-monospace,'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-label="Segurança não é um produto, é um processo.">
+<style>@keyframes blink{50%{opacity:0}}.q-cv{animation:q-t 2.4s steps(44,end) 0.6s both}
+@keyframes q-t{from{transform:translateX(0)}to{transform:translateX(585px)}}.q-cu{animation:q-t 2.4s steps(44,end) 0.6s both,blink 1s steps(1) infinite}
+.q-cuw{animation:q-on 0s 0.6s both}
+@keyframes q-on{from{opacity:0}to{opacity:1}}@keyframes q-off{to{opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm-hide{display:none}}</style>
+<rect width="1200" height="120" fill="#05080a"/>
+<path d="M24,2 H1176" stroke="#12342c" stroke-width="2"/>
+<text x="34" y="42" font-size="17" fill="#6f8f84"><tspan fill="#00ff9c">caio@secure</tspan>:<tspan fill="#22d3ee">~</tspan>$ cat lema.txt</text>
+<text x="34" y="78" font-size="22" font-weight="400" fill="#c9ddd6">"Segurança não é um produto, é um processo."</text>
+<rect class="q-cv" x="33" y="56" width="587" height="30.799999999999997" fill="#05080a"/><g class="q-cuw"><rect class="q-cu" x="34" y="59.96" width="13.2" height="23.1" fill="#00ff9c"/></g>
+</svg>

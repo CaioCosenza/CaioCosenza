@@ -1,56 +1,82 @@
-# 🌐 [CAIO COSENZA] 
-### IT Support Specialist | Network Infrastructure | Cybersecurity
-
-## 👤 Sobre Mim 
-Sou um profissional de TI focado em garantir a continuidade de negócios através de infraestruturas de rede resilientes e práticas de cibersegurança. Minha atuação combina o suporte técnico consultivo com a implementação de políticas de segurança e gestão de redes escaláveis.
-
-- 🛠️ **Suporte N2**: Diagnóstico avançado de hardware, software e sistemas operacionais.
-- 📡 **Networks**: Protocolos TCP/IP, VLANs, Roteamento e Switching.                                  
-- 🛡️ **Cybersecurity**: Foco em Firewall (pfSense/Fortigate), VPNs, monitoramento SOC e auditoria de vulnerabilidades.
-- 🐧 **Sistemas**: Administração de ambientes Windows Server (AD/GPO) e Linux (Debian/Ubuntu/CentOS).
-  
-## 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <a href="https://cosenza-tech.netlify.app/"><img src="assets/header.svg" width="100%" alt="Caio Cosenza — Técnico de TI · Redes · Cibersegurança" /></a>
+</p>
 
 <p align="center">
-<img width="1920" height="599" alt="image"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pna2FhMWFmaDJpaWJsM3FqamxxZXVvOHk4bG1wbmo5NDQ1YjlkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx1KzuQBR8wIbrm81t/giphy.gif" />
+  <img src="assets/terminal.svg" width="100%" alt="$ whoami → caio.cosenza · $ cat funcao.txt → Suporte técnico | Redes | Cibersegurança · $ echo $LOCAL → Portugal" />
 </p>
 
-### 🔌 Infraestrutura e Redes
+<img src="assets/h01.svg" width="100%" alt="[01] sobre" />
+
+**Support & Hardware Technician** com mais de dois anos de experiência em suporte técnico N1 e N2, redes LAN/WAN e VPN, firewall, servidores e Active Directory. Formação em Análise e Desenvolvimento de Sistemas e cursos em cibersegurança, Python e SQL Server. Valorizo a boa comunicação e o trabalho em equipa para manter utilizadores e infraestruturas a funcionar com segurança.
+
+<img src="assets/h02.svg" width="100%" alt="[02] experiência" />
+
+```bash
+$ cat experiencia.log
+```
+
+> **▸ Support & Hardware Technician** · Elevar Global Lda. · `ago 2026 – atualmente`<br>
+> Suporte N1/N2 presencial e remoto · servidores e Active Directory · redes LAN/WAN, VPN e firewall · postos de trabalho
+
+> **▸ Support & Hardware Technician** · Centralgest Software · Mealhada · `jun 2025 – ago 2026`<br>
+> Suporte N1/N2 · hardware e software · software Centralgest · equipamentos de rede e firewall · estabilidade dos sistemas
+
+> **▸ Support & Hardware Technician** · Filosoft · `mai 2024 – jun 2025`<br>
+> Suporte N1/N2 · manutenção preventiva e corretiva · servidores e Active Directory · redes LAN/WAN, VPN e firewall
+
+<img src="assets/h03.svg" width="100%" alt="[03] áreas de atuação" />
+
+| ▸ módulo | o que faço |
+| --- | --- |
+| `suporte_tecnico` | Apoio a utilizadores e resolução de incidentes de hardware, software e acessos |
+| `redes` | Gestão e manutenção de redes e da conectividade da infraestrutura |
+| `ciberseguranca` | Firewall (pfSense/Fortigate), VPN, monitorização e boas práticas de segurança |
+| `servidores` | Windows Server, Active Directory e GPO; Linux (Debian/Ubuntu/CentOS) |
+| `dados_e_sistemas` | SQL Server e sistemas de gestão empresarial (ERP) |
+
+<img src="assets/h04.svg" width="100%" alt="[04] skills" />
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-0a1114?style=for-the-badge&logo=cisco&logoColor=00ff9c" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Wireshark-0a1114?style=for-the-badge&logo=wireshark&logoColor=00ff9c" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/pfSense-0a1114?style=for-the-badge&logo=pfsense&logoColor=00ff9c" alt="pfSense" />
+  <img src="https://img.shields.io/badge/Fortinet-0a1114?style=for-the-badge&logo=fortinet&logoColor=00ff9c" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/OpenVPN-0a1114?style=for-the-badge&logo=openvpn&logoColor=00ff9c" alt="OpenVPN" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0a1114?style=for-the-badge&logo=kalilinux&logoColor=00ff9c" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Nmap-0a1114?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Windows_Server-0a1114?style=for-the-badge" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Active_Directory-0a1114?style=for-the-badge" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Linux-0a1114?style=for-the-badge&logo=linux&logoColor=00ff9c" alt="Linux" />
+  <img src="https://img.shields.io/badge/SQL_Server-0a1114?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Azure-0a1114?style=for-the-badge" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-0a1114?style=for-the-badge&logo=docker&logoColor=00ff9c" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-0a1114?style=for-the-badge&logo=python&logoColor=00ff9c" alt="Python" />
 </p>
 
-### 🛡️ Segurança da Informação
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
+<img src="assets/h05.svg" width="100%" alt="[05] criador do Camada 8" />
 
-### 💻 Sistemas e Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Tux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-
-<p align="right">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFzd2c0b2txemNxa3g0cGozdHp4amdvYnRnNWQ2MHVtMWZpNTM4diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3d2yl0QuHpHdYtfwVh/giphy.webp" />
-
-
-## 📩 Conecte-se Comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/caio-cosenza-31b562156">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cvasconcelos.caio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.instagram.com/camada.8/"><img src="assets/camada8.svg" width="100%" alt="Camada 8 — canal de cibersegurança no Instagram @camada.8" /></a>
 </p>
 
-<p align="rigth">
-  <sub>"Segurança não é um produto, é um processo."</sub>
+<p align="center">
+  <a href="https://www.instagram.com/camada.8/"><img src="https://img.shields.io/badge/./instagram-0a1114?style=for-the-badge&logo=instagram&logoColor=00ff9c" alt="Instagram @camada.8" /></a>
+  <a href="https://linktr.ee/camada.8"><img src="https://img.shields.io/badge/./linktree-0a1114?style=for-the-badge&logo=linktree&logoColor=00ff9c" alt="Linktree camada.8" /></a>
 </p>
+
+<img src="assets/h06.svg" width="100%" alt="[06] contacto" />
+
+<p align="center">
+  <a href="https://cosenza-tech.netlify.app/"><img src="https://img.shields.io/badge/./portfolio-00ff9c?style=for-the-badge&logo=netlify&logoColor=05080a" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/caio-cosenza-31b562156"><img src="https://img.shields.io/badge/./linkedin-0a1114?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:cvasconcelos.caio@gmail.com"><img src="https://img.shields.io/badge/./email-0a1114?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email" /></a>
+</p>
+
+<img src="assets/h07.svg" width="100%" alt="[07] atividade" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CaioCosenza/CaioCosenza/output/snake-camada8.svg" width="100%" alt="Cobra a comer o gráfico de contribuições" />
+</p>
+
+<img src="assets/rodape.svg" width="100%" alt="Segurança não é um produto, é um processo." />

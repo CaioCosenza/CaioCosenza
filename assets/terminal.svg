@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="ui-monospace,'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-label="Terminal: whoami caio.cosenza; função Suporte técnico, Redes, Cibersegurança; local Portugal">
+<style>
+@keyframes blink{50%{opacity:0}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes fo{from{opacity:0}to{opacity:1}}
+.c0-cv{animation:c0-t 0.4s steps(8,end) 0.6s both}
+@keyframes c0-t{from{transform:translateX(0)}to{transform:translateX(105px)}}.c0-cu{animation:c0-t 0.4s steps(8,end) 0.6s both,blink 1s steps(1) infinite}
+.c0-cuw{animation:c0-on 0s 0.6s both,c0-off 0s 1.6s forwards}
+@keyframes c0-on{from{opacity:0}to{opacity:1}}@keyframes c0-off{to{opacity:0}}.o0{animation:fo .01s 1.35s both}.c1-cv{animation:c1-t 0.8s steps(16,end) 1.8s both}
+@keyframes c1-t{from{transform:translateX(0)}to{transform:translateX(206px)}}.c1-cu{animation:c1-t 0.8s steps(16,end) 1.8s both,blink 1s steps(1) infinite}
+.c1-cuw{animation:c1-on 0s 1.8s both,c1-off 0s 3.2s forwards}
+@keyframes c1-on{from{opacity:0}to{opacity:1}}@keyframes c1-off{to{opacity:0}}.o1{animation:fo .01s 2.95s both}.c2-cv{animation:c2-t 0.65s steps(13,end) 3.4000000000000004s both}
+@keyframes c2-t{from{transform:translateX(0)}to{transform:translateX(168px)}}.c2-cu{animation:c2-t 0.65s steps(13,end) 3.4000000000000004s both,blink 1s steps(1) infinite}
+.c2-cuw{animation:c2-on 0s 3.4000000000000004s both,c2-off 0s 4.65s forwards}
+@keyframes c2-on{from{opacity:0}to{opacity:1}}@keyframes c2-off{to{opacity:0}}.o2{animation:fo .01s 4.4s both}.pr{animation:fo .01s 4.8500000000000005s both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm-hide{display:none}}
+</style>
+<rect x="1" y="1" width="1198" height="298" fill="#0a1114" stroke="#12342c" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="40" fill="#0d171b"/>
+<path d="M1,41 H1199" stroke="#12342c" stroke-width="2"/>
+<circle cx="26" cy="21" r="7" fill="#ff3b6b"/><circle cx="50" cy="21" r="7" fill="#ffbd2e"/><circle cx="74" cy="21" r="7" fill="#00ff9c"/>
+<text x="600" y="27" font-size="15" fill="#6f8f84" text-anchor="middle">bash — caio@secure</text>
+<text x="34" y="92" font-size="21" font-weight="400" fill="#00ff9c">$ whoami</text>
+<rect class="c0-cv" x="33" y="71" width="107" height="29.4" fill="#0a1114"/><g class="c0-cuw"><rect class="c0-cu" x="34" y="74.78" width="12.6" height="22.05" fill="#00ff9c"/></g><text class="o0" x="34" y="122" font-size="21" fill="#c9ddd6">caio.cosenza</text><text x="34" y="158" font-size="21" font-weight="400" fill="#00ff9c">$ cat funcao.txt</text>
+<rect class="c1-cv" x="33" y="137" width="208" height="29.4" fill="#0a1114"/><g class="c1-cuw"><rect class="c1-cu" x="34" y="140.78" width="12.6" height="22.05" fill="#00ff9c"/></g><text class="o1" x="34" y="188" font-size="21" fill="#c9ddd6">Suporte técnico | Redes | Cibersegurança</text><text x="34" y="224" font-size="21" font-weight="400" fill="#00ff9c">$ echo $LOCAL</text>
+<rect class="c2-cv" x="33" y="203" width="170" height="29.4" fill="#0a1114"/><g class="c2-cuw"><rect class="c2-cu" x="34" y="206.78" width="12.6" height="22.05" fill="#00ff9c"/></g><text class="o2" x="34" y="254" font-size="21" fill="#c9ddd6">Portugal</text><g class="pr"><text x="34" y="290" font-size="21" fill="#00ff9c">$</text><rect class="blink" x="54" y="273" width="12.6" height="22" fill="#00ff9c"/></g>
+<path d="M1199,270 v29 h-29" stroke="#00ff9c" stroke-width="4" fill="none"/>
+</svg>
