@@ -8,7 +8,7 @@
 
 <img src="assets/h01.svg" width="100%" alt="[01] sobre" />
 
-**Support & Hardware Technician** com mais de dois anos de experiência em suporte técnico N1 e N2, redes LAN/WAN e VPN, firewall, servidores e Active Directory. Formação em Análise e Desenvolvimento de Sistemas e cursos em cibersegurança, Python e SQL Server. Valorizo a boa comunicação e o trabalho em equipa para manter utilizadores e infraestruturas a funcionar com segurança.
+**Support & Hardware Technician** com mais de cinco anos de experiência em suporte técnico N1 e N2, redes LAN/WAN e VPN, firewall, servidores e Active Directory. Formação em Análise e Desenvolvimento de Sistemas e cursos em cibersegurança, Python e SQL Server. Valorizo a boa comunicação e o trabalho em equipa para manter utilizadores e infraestruturas a funcionar com segurança.
 
 <img src="assets/h02.svg" width="100%" alt="[02] experiência" />
 
@@ -38,20 +38,18 @@ $ cat experiencia.log
 <img src="assets/h04.svg" width="100%" alt="[04] skills" />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-0a1114?style=for-the-badge&logo=cisco&logoColor=00ff9c" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Wireshark-0a1114?style=for-the-badge&logo=wireshark&logoColor=00ff9c" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/pfSense-0a1114?style=for-the-badge&logo=pfsense&logoColor=00ff9c" alt="pfSense" />
-  <img src="https://img.shields.io/badge/Sophos-0a1114?style=for-the-badge" alt="Sophos" />
-  <img src="https://img.shields.io/badge/OpenVPN-0a1114?style=for-the-badge&logo=openvpn&logoColor=00ff9c" alt="OpenVPN" />
-  <img src="https://img.shields.io/badge/Kali_Linux-0a1114?style=for-the-badge&logo=kalilinux&logoColor=00ff9c" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Nmap-0a1114?style=for-the-badge" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Windows_Server-0a1114?style=for-the-badge" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Active_Directory-0a1114?style=for-the-badge" alt="Active Directory" />
-  <img src="https://img.shields.io/badge/Linux-0a1114?style=for-the-badge&logo=linux&logoColor=00ff9c" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQL_Server-0a1114?style=for-the-badge" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Azure-0a1114?style=for-the-badge" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-0a1114?style=for-the-badge&logo=docker&logoColor=00ff9c" alt="Docker" />
-  <img src="https://img.shields.io/badge/Python-0a1114?style=for-the-badge&logo=python&logoColor=00ff9c" alt="Python" />
+  <img src="assets/skill-cisco.svg" height="32" alt="Cisco" />
+  <img src="assets/skill-wireshark.svg" height="32" alt="Wireshark" />
+  <img src="assets/skill-pfsense.svg" height="32" alt="pfSense" />
+  <img src="assets/skill-sophos.svg" height="32" alt="Sophos" />
+  <img src="assets/skill-openvpn.svg" height="32" alt="OpenVPN" />
+  <img src="assets/skill-kali-linux.svg" height="32" alt="Kali Linux" />
+  <img src="assets/skill-nmap.svg" height="32" alt="Nmap" />
+  <img src="assets/skill-windows-server.svg" height="32" alt="Windows Server" />
+  <img src="assets/skill-active-directory.svg" height="32" alt="Active Directory" />
+  <img src="assets/skill-linux.svg" height="32" alt="Linux" />
+  <img src="assets/skill-sql-server.svg" height="32" alt="SQL Server" />
+  <img src="assets/skill-python.svg" height="32" alt="Python" />
 </p>
 
 <img src="assets/h05.svg" width="100%" alt="[05] criador do Camada 8" />

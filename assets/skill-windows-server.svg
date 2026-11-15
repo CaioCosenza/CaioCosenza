@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167 32" width="167" height="32" font-family="ui-monospace,'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-label="Windows Server">
+<rect x=".75" y=".75" width="165.5" height="30.5" fill="#0a1114" stroke="#12342c" stroke-width="1.5"/>
+<path d="M.75,8 V.75 H8" stroke="#00ff9c" stroke-width="1.5" fill="none"/>
+<svg x="12" y="8" width="16" height="16" viewBox="0 0 24 24" fill="#00ff9c"><path d="M0,0H11.377V11.372H0ZM12.623,0H24V11.372H12.623ZM0,12.623H11.377V24H0Zm12.623,0H24V24H12.623"/></svg>
+<text x="37" y="20.3" font-size="12" font-weight="700" letter-spacing="1.2" fill="#eafff6">WINDOWS SERVER</text>
+</svg>

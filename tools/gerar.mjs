@@ -279,6 +279,33 @@ function rodape() {
 </svg>`;
 }
 
+// ---------- 6. badges de skills com o ícone de cada marca ----------
+// Ícones: Simple Icons (CC0) em tools/icones; Nmap (olho) e Sophos (escudo) desenhados aqui, simplificados.
+const icone = (nome) => fs.readFileSync(path.join(raiz, 'tools', 'icones', nome + '.svg'), 'utf8').match(/ d="([^"]+)"/)[1];
+const PROPRIOS = {
+  nmap: `<path fill-rule="evenodd" d="M12 5C6.6 5 2.8 9 1 12c1.8 3 5.6 7 11 7s9.2-4 11-7c-1.8-3-5.6-7-11-7zm0 2.6a4.4 4.4 0 1 0 0 8.8 4.4 4.4 0 0 0 0-8.8zm0 2.2a2.2 2.2 0 1 1 0 4.4 2.2 2.2 0 0 1 0-4.4z"/>`,
+  sophos: `<path d="M12 1 3 4.6v6.1c0 5.7 3.8 10.6 9 12.3 5.2-1.7 9-6.6 9-12.3V4.6z"/><text x="12" y="16.6" font-size="12" font-weight="700" text-anchor="middle" fill="${C.panel}" font-family="Arial,Helvetica,sans-serif">S</text>`,
+};
+function badge(rotulo, ic) {
+  const H = 32, fs_ = 12, ls = 1.2, pad = 12, isz = 16;
+  const tw = Math.ceil(rotulo.length * (cw(fs_) + ls));
+  const W = pad + isz + 9 + tw + pad;
+  const glifo = PROPRIOS[ic] || `<path d="${icone(ic)}"/>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" font-family="${MONO}" role="img" aria-label="${esc(rotulo)}">
+  <rect x=".75" y=".75" width="${W - 1.5}" height="${H - 1.5}" fill="${C.panel}" stroke="${C.bd}" stroke-width="1.5"/>
+  <path d="M.75,8 V.75 H8" stroke="${C.g}" stroke-width="1.5" fill="none"/>
+  <svg x="${pad}" y="${(H - isz) / 2}" width="${isz}" height="${isz}" viewBox="0 0 24 24" fill="${C.g}">${glifo}</svg>
+  <text x="${pad + isz + 9}" y="${H / 2 + 4.3}" font-size="${fs_}" font-weight="700" letter-spacing="${ls}" fill="${C.hi}">${esc(rotulo.toUpperCase())}</text>
+</svg>`;
+}
+export const SKILLS = [
+  ['Cisco', 'cisco'], ['Wireshark', 'wireshark'], ['pfSense', 'pfsense'], ['Sophos', 'sophos'], ['OpenVPN', 'openvpn'],
+  ['Kali Linux', 'kalilinux'], ['Nmap', 'nmap'], ['Windows Server', 'windows'], ['Active Directory', 'windows'],
+  ['Linux', 'linux'], ['SQL Server', 'microsoftsqlserver'], ['Python', 'python'],
+];
+const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+SKILLS.forEach(([r, ic]) => out(`skill-${slug(r)}.svg`, badge(r, ic)));
+
 out('header.svg', header());
 out('terminal.svg', terminal());
 out('camada8.svg', camada8());
