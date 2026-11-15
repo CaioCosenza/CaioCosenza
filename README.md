@@ -68,7 +68,7 @@ $ cat experiencia.log
 <img src="assets/h06.svg" width="100%" alt="[06] contacto" />
 
 <p align="center">
-  <a href="https://cosenza-tech.netlify.app/"><img src="https://img.shields.io/badge/./portfolio-00ff9c?style=for-the-badge&logo=netlify&logoColor=05080a" alt="Portfólio" /></a>
+  <a href="https://cosenza-tech.netlify.app/"><img src="https://img.shields.io/badge/./portfolio-0a1114?style=for-the-badge&logo=netlify&logoColor=00ff9c" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/caio-cosenza-31b562156"><img src="https://img.shields.io/badge/./linkedin-0a1114?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:cvasconcelos.caio@gmail.com"><img src="https://img.shields.io/badge/./email-0a1114?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email" /></a>
 </p>
